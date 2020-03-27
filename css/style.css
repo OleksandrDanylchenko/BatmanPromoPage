@@ -391,12 +391,19 @@ body {
   .short-info {
     margin-right: 0;
   }
+  .tabs-item {
+    display: flex;
+    justify-content: center;
+  }
   .button {
+    display: inline-block;
     width: 100%;
+    margin-left: 7px;
   }
   .poster {
     margin-top: -20%;
     display: inline-block;
     width: 100%;
+    padding-left: 9px;
   }
 }
