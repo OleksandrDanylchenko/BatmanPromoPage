@@ -3,4 +3,6 @@
 
 Використані бібліотеки `Normalize.css`, `Fancybox.css`, `Animate.css`
 
+Відвідайте сайт за посиланням - https://olexanderd.github.io/batmanPromoPage/
+
 ![siteGif](/batmanDemo1.gif "Site gif demonstration")
