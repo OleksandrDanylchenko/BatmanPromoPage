@@ -3,4 +3,4 @@
 
 Використані бібліотеки `Normalize.css`, `Fancybox.css`, `Animate.css`
 
-![siteGif](/batmanDemo.gif "Site gif demonstration")
+![siteGif](/batmanDemo1.gif "Site gif demonstration")
